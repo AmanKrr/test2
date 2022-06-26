@@ -1,0 +1,25 @@
+.dashboard-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: center;
+    width: 90%;
+    padding: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+p {
+margin-left: 200px;
+}
+

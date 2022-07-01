@@ -2,11 +2,14 @@
 // import "../img/"
 
 const cardInfo = [
-    {img:"nord", id:"1", cardfname:"Nord Stage 3 88 Keys", price: "$5,738 AUD"},
-    {img:"halix", id:"2", cardfname:"Line6 Helix Rack Guitar Prrocessor - 1x opened box", price: "$1,831.57 AUD"},
-    {img:"nord lead 1", id:"3", cardfname:"Nord Lead A1", price: "$1,700 AUD"},
-    {img:"moog subsequent", id:"4", cardfname:"Moog subsequent 37", price: "$1,700 AUD"},
-    {img:"miniature", id:"5", cardfname:"Moog Minitaur 2010s Black", price: "$682.80 AUD"},
+    {img:"Avenegers2012", id:"1", cardfname:"The Avengers (2012)"},
+    {img:"avengersUnited", id:"2", cardfname:"Avengers United They Stand (1999) (TV Series)"},
+    {img:"avengersEndgame", id:"3", cardfname:"Avengers Endgame (2019)"},
+    {img:"avengersInfinityWar", id:"4", cardfname:"Avengers: Infinity War (2018)"},
+    {img:"avengersUltron", id:"5", cardfname:"Avengers Age of Ultron (2015)"},
+    {img:"avengersAssemble", id:"6", cardfname:"Avengers Assemble (2012) (TV Series)"},
+    {img:"avengersEarth", id:"7", cardfname:"The Avengers: Earth's Mightiest Heroes (2010) (TV Series)"},
+    {img:"avengers1961", id:"8", cardfname:"The Avengers (1961) (TV Series)"},
 ] 
 
 export default cardInfo;

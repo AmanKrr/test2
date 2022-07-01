@@ -1,25 +1,32 @@
-.dashboard-container {
-    width: 100%;
+body {
+    background-color: black;
+}
+
+.dashboard {
+    background-color: black;
+    padding: 2%;
     display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
 
 .cards {
     display: flex;
-    flex-direction: row;
-    justify-content:flex-start;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
-    width: 90%;
-    padding: 20px;
+    width: 30%;
+    margin-bottom: 50px;
 }
 
 img {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 280px;
 }
 
 p {
-margin-left: 200px;
+    color: #fff;
 }
 

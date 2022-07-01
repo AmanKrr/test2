@@ -9,9 +9,8 @@ function Card(props) {
     return (
         <>
             <div className={strCrd + props.id + " " + "cards"}>
-                <img src={require(`../img/${props.img}.jpeg`)} alt=""></img>
+                <img src={require(`../img/${props.img}.jpg`)} alt=""></img>
                 <p>{props.cardfname}</p>
-                <p>{props.price}</p>
             </div>
         </>
     )
